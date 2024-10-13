@@ -26,8 +26,8 @@ const swaggerOptions = {
     ],
     servers: [
       {
-        url: "http://localhost:3000/api",
-        description: "Development server",
+        url: "https://social-media-project-5ciw.onrender.com/api",
+        description: "Production Server",
       },
     ],
   },

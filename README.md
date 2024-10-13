@@ -1,6 +1,10 @@
 # Social Media App
 
+## Description
+
 This is a backend for a social media platform built using the express framework. It features user authentication, post creation, commenting, liking, friend requests, and a feed system. The app uses JWT for authentication.
+
+Swagger docs: [https://social-media-project-5ciw.onrender.com/docs](https://social-media-project-5ciw.onrender.com/docs)
 
 ## Features
 
